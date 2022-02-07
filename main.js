@@ -174,9 +174,6 @@
 
 // console.log(obj.fullName())
 
-
-
-
 // Number.prototype.filters=function(){
 
 // return this.filter((item)=>{
